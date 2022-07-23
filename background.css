@@ -1,0 +1,52 @@
+body {
+  background: white;
+  display: flex;
+  justify-content: center;
+}
+
+#date{
+  color: white;
+}
+
+#todo {
+  margin-top: 60px;
+  background-color: beige;
+  color:black;
+  width: 600px;
+  height: 800px;
+  
+}
+
+img {
+  border-radius: 25px 25px 0px 0px ;
+  width: 600px;
+  height: 300px;
+  margin-top: -20px;
+}
+/*peo*/
+
+#recargar{
+  margin-top: -250px;
+  margin-left: 500px;
+}
+
+h3{
+  margin-top:-50px;
+  margin-left: 20px;
+  font-size: 40px;
+  color: white;
+  
+}
+
+.list{
+  padding-left: 20px;
+  margin-top: 60px;
+  font-size: 30px;
+}
+.add{
+  padding-left: 20px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
